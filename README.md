@@ -51,3 +51,5 @@
 </div>
 
 ###
+
+![Snake animation](https://github.com/diovane-miranda/diovane-miranda/blob/output/github-contribution-grid-snake.svg)
