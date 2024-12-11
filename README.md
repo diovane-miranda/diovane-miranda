@@ -1,14 +1,14 @@
 ## Hi, I am Diovane Miranda! 
 </br>
+
  <div>
   <a href="https://github.com/diovane-miranda">
-  <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diovane-miranda&layout=compact&langs_count=16&theme=dracula"/>
+   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diovane-miranda&layout=compact&langs_count=16&theme=dracula"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=diovane-miranda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
-<img align="right" height="150" src="https://github.com/diovane-miranda/diovane-miranda/blob/main/lf0w23ue61ukvrr7nbrh.gif?raw=true"  />
 
    ## Skills
-<div align="left">
+<div style="display: inline_block"><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -36,6 +36,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img align="right" height="150" src="https://github.com/diovane-miranda/diovane-miranda/blob/main/lf0w23ue61ukvrr7nbrh.gif?raw=true"  />
 </div>
 
 
