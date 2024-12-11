@@ -2,7 +2,7 @@
 </br>
 
  <div>
-  <img align="right" height="150" src="https://github.com/diovane-miranda/diovane-miranda/blob/main/lf0w23ue61ukvrr7nbrh.gif?raw=true"  />
+  <img align="right" height="165" width="300" src="https://github.com/diovane-miranda/diovane-miranda/blob/main/lf0w23ue61ukvrr7nbrh.gif?raw=true"  />
   <a href="https://github.com/diovane-miranda">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=diovane-miranda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
  </div>
