@@ -6,6 +6,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=diovane-miranda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
 
+<br/>
+<img align="right" height="150" src="https://github.com/diovane-miranda/diovane-miranda/blob/main/lf0w23ue61ukvrr7nbrh.gif?raw=true"  />
+
 ## Skills
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
@@ -36,9 +39,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
 </div>
-
-<br/>
-<img align="right" height="150" src="https://github.com/diovane-miranda/diovane-miranda/blob/main/lf0w23ue61ukvrr7nbrh.gif?raw=true"  />
 
 ## Contact
 <div align="left">
