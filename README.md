@@ -4,6 +4,7 @@
  <div>
   <a href="https://github.com/diovane-miranda">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=diovane-miranda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+  <img align="right" height="150" src="https://github.com/diovane-miranda/diovane-miranda/blob/main/lf0w23ue61ukvrr7nbrh.gif?raw=true"  />
 </div>
 
    ## Skills
@@ -35,7 +36,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img align="right" height="150" src="https://github.com/diovane-miranda/diovane-miranda/blob/main/lf0w23ue61ukvrr7nbrh.gif?raw=true"  />
 </div>
 
 
